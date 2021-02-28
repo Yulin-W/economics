@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brief Thoughts on（maybe not on) Kondratiev Wave
+title: Brief Thoughts on (maybe not on) Kondratiev Wave
 ---
 
 Now firstly, I haven't looked too deeply into the theory, so these are just first impressions that shouldn't be taken seriously.
