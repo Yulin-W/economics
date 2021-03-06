@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Limited Food and Water as Welfare
+title: Thoughts on Basic Food and Water as Welfare
 ---
 
 I should first note that personally I do not stand as a proponent nor opponent for such policy as of writing, but am just interested in what effects it would have and causes of resistance towards it.
